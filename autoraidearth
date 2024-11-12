@@ -1,1 +1,5 @@
+wait(15)
+while true do
+wait(0.1)
 print("sup")
+end
